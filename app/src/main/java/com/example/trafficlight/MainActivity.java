@@ -24,6 +24,7 @@ private Button button1;
         button2 = findViewById(R.id.button2);
 
         button3 = findViewById(R.id.button3);
+        button4 = findViewById(R.id.button9);
 
 
         relativeLayout = findViewById(R.id.rlVar1);
